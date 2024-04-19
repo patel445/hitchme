@@ -23,7 +23,7 @@
 const social = [
   {
     name: "Instagram",
-    href: "https://www.instagram.com/hitchmeapp",
+    href: "https://instagram.com/hitchmeapp",
     src: "/instagram.svg",
   },
   {

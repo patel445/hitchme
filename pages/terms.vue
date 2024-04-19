@@ -8,7 +8,7 @@
       and preferences. By using Hitch Me, you agree to these Terms and
       Conditions."
     />
-    <Link rel="canonical" href="https://www.hitchmeapp.com/terms" />
+    <Link rel="canonical" href="https://hitchmeapp.com/terms" />
     <Meta property="og:title" content="Hitch Me | Terms & Privacy" />
     <Meta
       property="og:description"
@@ -17,7 +17,7 @@
       and preferences. By using Hitch Me, you agree to these Terms and
       Conditions."
     />
-    <Meta property="og:url" content="https://www.hitchmeapp.com/terms" />
+    <Meta property="og:url" content="https://hitchmeapp.com/terms" />
     <Meta property="twitter:title" content="Hitch Me | Terms & Privacy" />
     <Meta
       property="twitter:description"

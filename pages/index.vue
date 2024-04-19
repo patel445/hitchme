@@ -5,7 +5,7 @@
       name="description"
       content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
     />
-    <Link rel="canonical" href="https://www.hitchmeapp.com/" />
+    <Link rel="canonical" href="https://hitchmeapp.com/" />
     <Meta
       property="og:title"
       content="Hitch Me | Traditional Dating Modernized"
@@ -14,7 +14,7 @@
       property="og:description"
       content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
     />
-    <Meta property="og:url" content="https://www.hitchmeapp.com/" />
+    <Meta property="og:url" content="https://hitchmeapp.com/" />
     <Meta
       property="twitter:title"
       content="Hitch Me | Traditional Dating Modernized"
