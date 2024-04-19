@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>Hitch Me - Terms & Privacy</Title>
+    <Title>Hitch Me | Terms & Privacy</Title>
     <Meta
       name="description"
       content="Welcome to Hitch Me! Our app is dedicated to helping you find a life
@@ -9,7 +9,7 @@
       Conditions."
     />
     <Link rel="canonical" href="https://www.hitchmeapp.com/terms" />
-    <Meta property="og:title" content="Hitch Me - Terms & Privacy" />
+    <Meta property="og:title" content="Hitch Me | Terms & Privacy" />
     <Meta
       property="og:description"
       content="Welcome to Hitch Me! Our app is dedicated to helping you find a life
@@ -18,7 +18,7 @@
       Conditions."
     />
     <Meta property="og:url" content="https://www.hitchmeapp.com/terms" />
-    <Meta property="twitter:title" content="Hitch Me - Terms & Privacy" />
+    <Meta property="twitter:title" content="Hitch Me | Terms & Privacy" />
     <Meta
       property="twitter:description"
       content="Welcome to Hitch Me! Our app is dedicated to helping you find a life
