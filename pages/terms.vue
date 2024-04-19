@@ -1,4 +1,33 @@
 <template>
+  <Meta>
+    <Title>Hitch Me - Terms & Privacy</Title>
+    <Meta
+      name="description"
+      content="Welcome to Hitch Me! Our app is dedicated to helping you find a life
+      partner by matching you with other individuals based on shared interests
+      and preferences. By using Hitch Me, you agree to these Terms and
+      Conditions."
+    />
+    <Link rel="canonical" href="https://www.hitchmeapp.com/terms" />
+    <Meta property="og:title" content="Hitch Me - Terms & Privacy" />
+    <Meta
+      property="og:description"
+      content="Welcome to Hitch Me! Our app is dedicated to helping you find a life
+      partner by matching you with other individuals based on shared interests
+      and preferences. By using Hitch Me, you agree to these Terms and
+      Conditions."
+    />
+    <Meta property="og:url" content="https://www.hitchmeapp.com/terms" />
+    <Meta property="twitter:title" content="Hitch Me - Terms & Privacy" />
+    <Meta
+      property="twitter:description"
+      content="Welcome to Hitch Me! Our app is dedicated to helping you find a life
+      partner by matching you with other individuals based on shared interests
+      and preferences. By using Hitch Me, you agree to these Terms and
+      Conditions."
+    />
+    <Metadata />
+  </Meta>
   <Header />
   <main class="max-w-4xl mx-auto px-6 md:px-8 pt-8 md:pb-16 prose sm:prose-lg">
     <h1 class="tracking-tight">Terms & Privacy</h1>
@@ -39,7 +68,7 @@
       <li>
         <strong>Intellectual Property:</strong>
         All content on Hitch Me, unless otherwise stated, is the intellectual
-        property of Hitch Me LLC.
+        property of Apeiro Growth LLC.
       </li>
     </ol>
 

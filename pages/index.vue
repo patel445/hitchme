@@ -1,4 +1,30 @@
 <template>
+  <Meta>
+    <Title>Hitch Me - Traditional Dating Modernized</Title>
+    <Meta
+      name="description"
+      content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
+    />
+    <Link rel="canonical" href="https://www.hitchmeapp.com/" />
+    <Meta
+      property="og:title"
+      content="Hitch Me - Traditional Dating Modernized"
+    />
+    <Meta
+      property="og:description"
+      content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
+    />
+    <Meta property="og:url" content="https://www.hitchmeapp.com/" />
+    <Meta
+      property="twitter:title"
+      content="Hitch Me - Traditional Dating Modernized"
+    />
+    <Meta
+      property="twitter:description"
+      content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
+    />
+    <Metadata />
+  </Meta>
   <main class="isolate space-y-20 md:space-y-36">
     <div
       class="isolate relative overflow-hidden bg-gradient-to-b from-rose-100/20"
@@ -49,8 +75,7 @@
                   Say goodbye to swiping! Are you tired of meaningless matches
                   without finding the right one? We've reinvented the dating app
                   experience by doing the matching for you. Sign up today to be
-                  the first to know when we launch and start your journey to
-                  forever!
+                  the first to know when we launch and start your journey to forever love!
                 </p>
               </div>
               <div class="flex items-center gap-x-6 mt-10">
@@ -178,7 +203,8 @@
           <p>
             Our mission at Hitch Me is simple: 'We'll Find You The One.'
             Dedicated to revolutionizing the dating world, we combine
-            traditional values with modern technology to foster lasting relationships. Unlike typical dating apps that rely on endless
+            traditional values with modern technology to foster lasting
+            relationships. Unlike typical dating apps that rely on endless
             swiping, Hitch Me uses data-driven criteria to make matches. Think
             of us as your digital matchmaker or a best friend who knows exactly
             what you need in a relationship that’s just right for you.
@@ -209,13 +235,13 @@ import { useEmailSubscription } from "~/composables/useEmailSubscription";
 const { email, message, isSuccess, handleSubmit } = useEmailSubscription();
 const steps = [
   {
-    name: "Create Account",
+    name: "Create Your Account",
     description:
       "Start by creating an account and filling out all your information as accurately as possible. This helps us vet you and curate the perfect match for you!",
     number: "Step 1",
   },
   {
-    name: "Wait For Match",
+    name: "Wait For Matches",
     description:
       "After your account is set up, leave the rest to us. Simply turn on your notifications and relax while we find great matches for you.",
     number: "Step 2",
