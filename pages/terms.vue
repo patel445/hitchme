@@ -1,5 +1,5 @@
 <template>
-  <Meta>
+  <Head>
     <Title>Hitch Me - Terms & Privacy</Title>
     <Meta
       name="description"
@@ -27,7 +27,7 @@
       Conditions."
     />
     <Metadata />
-  </Meta>
+  </Head>
   <Header />
   <main class="max-w-4xl mx-auto px-6 md:px-8 pt-8 md:pb-16 prose sm:prose-lg">
     <h1 class="tracking-tight">Terms & Privacy</h1>

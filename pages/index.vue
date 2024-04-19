@@ -1,5 +1,5 @@
 <template>
-  <Meta>
+  <Head>
     <Title>Hitch Me - Traditional Dating Modernized</Title>
     <Meta
       name="description"
@@ -24,7 +24,7 @@
       content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
     />
     <Metadata />
-  </Meta>
+  </Head>
   <main class="isolate space-y-20 md:space-y-36">
     <div
       class="isolate relative overflow-hidden bg-gradient-to-b from-rose-100/20"
