@@ -66,11 +66,11 @@
             />
           </svg>
           <div
-            class="mt-8 md:mt-0 md:grid md:grid-cols-10 md:items-center md:gap-10"
+            class="mt-8 md:mt-0 md:grid md:grid-cols-10 md:items-center md:gap-4 lg:gap-0 xl:gap-10"
           >
             <div class="md:col-span-6">
-              <div class="mt-6 lg:mt-0 prose prose-base lg:prose-xl">
-                <h1 class="tracking-tight">Traditional Matchmaking Modernized.</h1>
+              <div class="mt-6 lg:mt-0 prose prose-lg">
+                <h1 class = "tracking-tight leading-tight md:leading-snug">Traditional Matchmaking Modernized.</h1>
                 <p>
                   Say goodbye to swiping! Are you tired of meaningless matches
                   without finding the right one? We've reinvented the dating app
