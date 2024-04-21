@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>Hitch Me | Traditional Dating Modernized</Title>
+    <Title>Hitch Me | Traditional Matchmaking Modernized</Title>
     <Meta
       name="description"
       content="Say goodbye to swiping! Are you tired of meaningless matches without finding the right one? We've reinvented the dating app experience by doing the matching for you. Sign up today to be the first to know when we launch and start your and start your journey to forever love!"
@@ -8,7 +8,7 @@
     <Link rel="canonical" href="https://hitchmeapp.com/" />
     <Meta
       property="og:title"
-      content="Hitch Me | Traditional Dating Modernized"
+      content="Hitch Me | Traditional Matchmaking Modernized"
     />
     <Meta
       property="og:description"
@@ -17,7 +17,7 @@
     <Meta property="og:url" content="https://hitchmeapp.com/" />
     <Meta
       property="twitter:title"
-      content="Hitch Me | Traditional Dating Modernized"
+      content="Hitch Me | Traditional Matchmaking Modernized"
     />
     <Meta
       property="twitter:description"
@@ -70,7 +70,7 @@
           >
             <div class="md:col-span-6">
               <div class="mt-6 lg:mt-0 prose prose-base lg:prose-xl">
-                <h1 class="tracking-tight">Traditional Dating Modernized.</h1>
+                <h1 class="tracking-tight">Traditional Matchmaking Modernized.</h1>
                 <p>
                   Say goodbye to swiping! Are you tired of meaningless matches
                   without finding the right one? We've reinvented the dating app
